@@ -1,5 +1,5 @@
 # homeassistant-flowerpower
-Home Assistant Custom component for FlowerPower
+Home Assistant Custom component for Parrot FlowerPower
 
 This is offered AS IS. I'm not going to continue updating this. Feel free to fork. 
 
