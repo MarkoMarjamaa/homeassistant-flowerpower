@@ -2,6 +2,7 @@
 Home Assistant Custom component for Parrot FlowerPower
 
 This is offered AS IS. I'm not going to continue updating this. Feel free to fork. 
+Thanks to https://github.com/gkreitz/homeassistant-airthings for copy&paste-inspiration! 
 
 FlowerPower has very limited BLE technical documentantion, but for version 1. I have version 2.0.3 so this mainly works with that version. Different versions have different attibutes so your version might not work with this. This version did not give any moisture %, and I think that's because my device is already broken. I release this code, so other's don't have to rewrite it. 
 
